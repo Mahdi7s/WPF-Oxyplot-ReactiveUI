@@ -8,4 +8,5 @@ A WPF application, which allows you to load data files that contain pairs of x a
 
 ## Refrences
 Math.NET Numerics for curve-fitting: https://numerics.mathdotnet.com/
+
 OxyPlot for graph-plotting: https://oxyplot.github.io/
