@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:WpfChallenge="clr-namespace:WpfChallenge"
     xmlns:reactiveui="http://reactiveui.net"
-    Title="WPF Challenge" Height="450" Width="800"
+    Title="WPF Oxyplot ReactiveUI" Height="450" Width="800"
     xmlns:oxy="http://oxyplot.org/wpf"
     mc:Ignorable="d">
     <Grid>
